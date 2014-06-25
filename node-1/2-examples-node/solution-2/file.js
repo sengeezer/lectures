@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-module.exports = function(filename, text, callback) {
+module.exports = function(filename, text) {
 
 	fs.writeFile(filename, text, function(err) {
 		if (err) return handleError(err);
