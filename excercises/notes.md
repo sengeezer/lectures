@@ -21,4 +21,6 @@
 * asynchronous programming
     * callbacks for one-time events
     * event listeners for repeating events
+* event emitters
+    * use .on for repeated response, and .once for a one time response
     
