@@ -26,4 +26,13 @@
     * events
         * keys that can have any value, e.g. data, channel
         * reserved: error
+    * error handling
+        * good idea to emit an error type event instead of simply throwing an error
+        * see `execises/error_handling_emit.js` for example
+        * in the absence of event listener, a stack trace will be output and the application is terminated.
+            * unique behavior for error type events
+            * other emissions simply vanish into null
+    * listener soft limit of 10
+        * use `channel.setMaxListeners(50);` to avoid warnings
+    * `util.inherits` ~~ `Watcher.prototype = new events.EventEmitter();`
     
