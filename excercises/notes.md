@@ -23,4 +23,7 @@
     * event listeners for repeating events
 * event emitters
     * use .on for repeated response, and .once for a one time response
+    * events
+        * keys that can have any value, e.g. data, channel
+        * reserved: error
     
