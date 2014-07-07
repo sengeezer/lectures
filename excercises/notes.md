@@ -35,4 +35,6 @@
     * listener soft limit of 10
         * use `channel.setMaxListeners(50);` to avoid warnings
     * `util.inherits` ~~ `Watcher.prototype = new events.EventEmitter();`
+* async caveats
+    * see async-[closure](https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Closures).js
     
