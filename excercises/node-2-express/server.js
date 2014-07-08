@@ -1,6 +1,3 @@
-/**
- * Created by albertin on 02/07/14.
- */
 
 var http = require('http');
 var express = require('express');
@@ -38,3 +35,5 @@ function setSession(req, res, next) {
         return next();
     });
 }
+
+// DEBUG=hcex ./bin/www
