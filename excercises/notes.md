@@ -37,4 +37,9 @@
     * `util.inherits` ~~ `Watcher.prototype = new events.EventEmitter();`
 * async caveats
     * see async-[closure](https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Closures).js
-    
+* async sequencing
+    * serial
+        * flow control
+            * can use nimble (see serial_flow_nimble.js)
+    * parallel
+        
