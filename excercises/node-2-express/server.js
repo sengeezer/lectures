@@ -13,6 +13,7 @@ var cookieOptions = {
     ,maxAge  : 7 * 24 * 3600 * 1000   // a week for example
 };
 app.use(express.cookieParser()); // installed dependency
+app.use(express.session({secret: '1234567890QWERTY'}));
 app.use(setSession);
 
 // routes
