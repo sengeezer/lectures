@@ -46,4 +46,6 @@
         * once again tasks in an array but in random order
         * handler function keeps track of overall progress and then passes off to a next step
         * multiple tasks can be performed simultaneously
+    * using npm modules for either
+        * e.g. nimble, step, sec
         
