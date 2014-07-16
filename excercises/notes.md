@@ -42,4 +42,8 @@
         * flow control
             * can use nimble (see serial_flow_nimble.js)
     * parallel
+        * (parallel) flow control
+        * once again tasks in an array but in random order
+        * handler function keeps track of overall progress and then passes off to a next step
+        * multiple tasks can be performed simultaneously
         
