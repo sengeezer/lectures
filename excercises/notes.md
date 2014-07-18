@@ -73,4 +73,10 @@
             * can be overridden by forcing them to be strings with `req.setEncoding('utf8');`
                 * to get entire string, concatenate chunks until end event occurs and deposit it in the items array
             * see todo.js exercise for example code
+        * response sped up / efficiency increased through use of Content-length header
+            * faster because it bypasses Node's chunking.
+            * should be represented by byte length, not character length to, for example, deal with multibyte characters
+        * removing resources
+            * can use parse function of `req.url` to form command
             
+        
