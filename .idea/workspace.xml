@@ -23,14 +23,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="notes.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="notes.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/excercises/notes.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.222221" vertical-offset="600" max-vertical-offset="1305">
-              <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.95238096" vertical-offset="735" max-vertical-offset="1455">
+              <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -39,23 +39,19 @@
       <file leaf-file-name="todo_exercise.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/excercises/chapter4/todo_exercise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+            <state vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="1050">
               <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#43#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_file_server.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/excercises/chapter4/static_file_server.js">
+      <file leaf-file-name="static.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/excercises/chapter4/static.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42537314" vertical-offset="0" max-vertical-offset="670">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#43#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,7 +79,7 @@
       <file leaf-file-name="prototypes-ex.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/excercises/prototypes-ex.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="435">
               <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
               <folding />
             </state>
@@ -100,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/node-1/1-examples-functions/03-scope-1.js" />
         <option value="$PROJECT_DIR$/node-1/1-examples-functions/03-ex.js" />
         <option value="$PROJECT_DIR$/node-1/2-examples-node/mySolution-1/main.js" />
         <option value="$PROJECT_DIR$/node-1/2-examples-node/solution-2/file.js" />
@@ -148,9 +143,10 @@
         <option value="$PROJECT_DIR$/excercises/chapter3/word_count/text/theprince.txt" />
         <option value="$PROJECT_DIR$/excercises/chapter3/word_count/word_count.js" />
         <option value="$PROJECT_DIR$/excercises/chapter3/flow_dl-and-arch.js" />
-        <option value="$PROJECT_DIR$/excercises/notes.md" />
         <option value="$PROJECT_DIR$/excercises/chapter4/todo_exercise.js" />
         <option value="$PROJECT_DIR$/excercises/chapter4/static_file_server.js" />
+        <option value="$PROJECT_DIR$/excercises/chapter4/static.js" />
+        <option value="$PROJECT_DIR$/excercises/notes.md" />
       </list>
     </option>
   </component>
@@ -367,13 +363,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/excercises/chatrooms/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20625" vertical-offset="0" max-vertical-offset="800">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/excercises/code/2/chat/lib/chat_server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.76334953" vertical-offset="946" max-vertical-offset="1770">
@@ -682,25 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/excercises/chapter3/word_count/word_count.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excercises/notes.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.222221" vertical-offset="600" max-vertical-offset="1305">
-          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/excercises/prototypes-ex.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
@@ -717,23 +687,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/excercises/chapter3/word_count/word_count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/excercises/chapter4/todo_exercise.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
           <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excercises/chapter4/static_file_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#0#43#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/excercises/chapter4/static_file_server.js">
+    <entry file="file://$PROJECT_DIR$/excercises/chapter4/static.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42537314" vertical-offset="0" max-vertical-offset="670">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excercises/notes.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95238096" vertical-offset="735" max-vertical-offset="1455">
+          <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

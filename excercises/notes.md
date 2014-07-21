@@ -78,5 +78,15 @@
             * should be represented by byte length, not character length to, for example, deal with multibyte characters
         * removing resources
             * can use parse function of `req.url` to form command
-            
+    * serving static files
+        * instead of using readStream, can use simpler and higher level `Stream#pipe()`
+            * connecting ReadableStream with WritableStream: `ReadableStream#pipe(WritableStream);`
+            * more info: [https://github.com/substack/stream-handbook](https://github.com/substack/stream-handbook)
+            * in use: fig. 4.4
+        * handling server errors
+            * should listen for errors
+            * pre-emptive handling with fs.stat
+                * retrieves information on files, incl. last changed time
+                
+        
         
