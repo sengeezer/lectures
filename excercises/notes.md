@@ -87,6 +87,7 @@
             * should listen for errors
             * pre-emptive handling with fs.stat
                 * retrieves information on files, incl. last changed time
-                
+    * accepting form input
+        * 
         
         
