@@ -88,6 +88,9 @@
             * pre-emptive handling with fs.stat
                 * retrieves information on files, incl. last changed time
     * accepting form input
-        * 
+        * Two usual content types for form data:
+            * application/x-www-form-urlencoded: default
+            * multipart/form-data: files, non-ASCII or binary data
+        
         
         
